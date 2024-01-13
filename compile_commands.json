@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/innocentzero/Isfaruls_home/projects/cclp-template/build",
+  "command": "/usr/bin/cc  -I/home/innocentzero/Isfaruls_home/projects/cclp-template/include -I/home/innocentzero/Isfaruls_home/projects/cclp-template/lib/inc -std=gnu11 -o CMakeFiles/cclp.dir/lib/src/cclp.c.o -c /home/innocentzero/Isfaruls_home/projects/cclp-template/lib/src/cclp.c",
+  "file": "/home/innocentzero/Isfaruls_home/projects/cclp-template/lib/src/cclp.c",
+  "output": "CMakeFiles/cclp.dir/lib/src/cclp.c.o"
+},
+{
+  "directory": "/home/innocentzero/Isfaruls_home/projects/cclp-template/build",
+  "command": "/usr/bin/cc  -I/home/innocentzero/Isfaruls_home/projects/cclp-template/include -I/home/innocentzero/Isfaruls_home/projects/cclp-template/lib/inc -std=gnu11 -o CMakeFiles/cclp.dir/lib/src/cstr.c.o -c /home/innocentzero/Isfaruls_home/projects/cclp-template/lib/src/cstr.c",
+  "file": "/home/innocentzero/Isfaruls_home/projects/cclp-template/lib/src/cstr.c",
+  "output": "CMakeFiles/cclp.dir/lib/src/cstr.c.o"
+}
+]
